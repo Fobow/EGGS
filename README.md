@@ -2,7 +2,7 @@
 
 Official implementation of EGGS, a geometry–appearance balanced framework for novel view synthesis.
 
-🌐 [Website](https://github.com/Fobow/eggs.github.io)
+🌐 [Website](https://fobow.github.io/eggs.github.io/)
 
 📄 [Paper](https://arxiv.org/abs/2512.02932)
 
